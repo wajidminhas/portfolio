@@ -173,7 +173,7 @@ export default function Hero() {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        padding: "88px 24px 60px",
+        padding: "64px 24px 60px",
         position: "relative",
         overflow: "hidden",
       }}
@@ -231,7 +231,7 @@ export default function Hero() {
         }}>
           Hi, I&apos;m{" "}
           <span style={{ color: "#00B4D8", textShadow: "0 0 40px rgba(0,180,216,0.3)" }}>
-            Ali Raza
+            Wajid Shabbir
           </span>
         </h1>
 

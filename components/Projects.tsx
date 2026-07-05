@@ -320,7 +320,7 @@ export default function Projects() {
     <section
       id="projects"
       ref={ref}
-      style={{ padding: "100px 24px", position: "relative", overflow: "hidden" }}
+      style={{ padding: "64px 24px", position: "relative", overflow: "hidden" }}
     >
       {/* Background glow */}
       <div style={{
@@ -334,7 +334,7 @@ export default function Projects() {
 
         {/* Section header */}
         <div style={{
-          marginBottom: 56,
+          marginBottom: 36,
           opacity: visible ? 1 : 0,
           transform: visible ? "translateY(0)" : "translateY(16px)",
           transition: "opacity 0.6s ease, transform 0.6s ease",
@@ -345,7 +345,7 @@ export default function Projects() {
             letterSpacing: "0.12em", textTransform: "uppercase",
             marginBottom: 12,
           }}>
-            // 03. things I have built
+            Projects
           </div>
           <h2 style={{
             fontFamily: "Space Grotesk, sans-serif",
@@ -400,7 +400,7 @@ export default function Projects() {
             More projects on GitHub
           </p>
           <a
-            href="https://github.com/YOUR_USERNAME"
+            href="https://github.com/wajidminhas"
             target="_blank"
             rel="noopener noreferrer"
             style={{

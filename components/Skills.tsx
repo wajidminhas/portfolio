@@ -213,7 +213,7 @@ export default function Skills() {
       id="skills"
       ref={ref}
       style={{
-        padding: "100px 24px",
+        padding: "64px 24px",
         position: "relative",
         overflow: "hidden",
       }}
@@ -230,7 +230,7 @@ export default function Skills() {
 
         {/* Section header */}
         <div style={{
-          marginBottom: 56,
+          marginBottom: 36,
           opacity: visible ? 1 : 0,
           transform: visible ? "translateY(0)" : "translateY(16px)",
           transition: "opacity 0.6s ease, transform 0.6s ease",
@@ -241,7 +241,7 @@ export default function Skills() {
             letterSpacing: "0.12em", textTransform: "uppercase",
             marginBottom: 12,
           }}>
-            // 02. what I work with
+            Skills
           </div>
           <h2 style={{
             fontFamily: "Space Grotesk, sans-serif",

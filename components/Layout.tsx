@@ -15,7 +15,7 @@ import "@fontsource/jetbrains-mono/500.css";
 import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Your Name — Backend Developer",
+  title: "Wajid Shabbir — Backend Developer",
   description: "Backend developer specializing in scalable APIs, microservices, and cloud infrastructure.",
 };
 
