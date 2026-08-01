@@ -213,7 +213,7 @@ export default function Skills() {
       id="skills"
       ref={ref}
       style={{
-        padding: "64px 24px",
+        padding: "60px 24px",
         position: "relative",
         overflow: "hidden",
       }}

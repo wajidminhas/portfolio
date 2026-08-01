@@ -320,7 +320,7 @@ export default function Projects() {
     <section
       id="projects"
       ref={ref}
-      style={{ padding: "64px 24px", position: "relative", overflow: "hidden" }}
+      style={{ padding: "60px 24px", position: "relative", overflow: "hidden" }}
     >
       {/* Background glow */}
       <div style={{

@@ -97,7 +97,7 @@ export default function About() {
     <section
       id="about"
       ref={ref}
-      style={{ padding: "64px 24px", position: "relative", overflow: "hidden" }}
+      style={{ padding: "60px 24px", position: "relative", overflow: "hidden" }}
     >
       {/* Bg glow */}
       <div style={{

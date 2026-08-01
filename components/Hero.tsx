@@ -173,7 +173,7 @@ export default function Hero() {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        padding: "64px 24px 60px",
+        padding: "64px 24px 40px",
         position: "relative",
         overflow: "hidden",
       }}
